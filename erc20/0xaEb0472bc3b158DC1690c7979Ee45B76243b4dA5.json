@@ -1,13 +1,13 @@
 {
-  "symbol": "Token symbol",
-  "address": "Contract Address",
+  "symbol": "APO",
+  "address": "0xaEb0472bc3b158DC1690c7979Ee45B76243b4dA5",
   "overview":{
-        "en": "Token Description.",
+        "en": "Apollo Green Energy",
         "zh": ""
   },
   "email": "Email",
-  "website": "https://your-awesome-project.com/",
-  "whitepaper": "https://your-awesome-project.com/file.pdf",
+  "website": "http://www.apolloenergy.io/",
+  "whitepaper": "http://www.apolloenergy.io/apo/web/viewer.html",
   "state": "LOCKED | NORMAL",
   "published_on": "2018-01-01",
   "initial_price":{
